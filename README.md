@@ -9,7 +9,6 @@ This project was designed and developed by **Umair Mustafa** during an internshi
 - **Real-Time News Updates**: Get the latest headlines from over 150,000 sources.  
 - **Advanced Search**: Find articles by keywords, topics, or sources.  
 - **Category Filtering**: Browse news by categories like Business, Technology, Sports, and more.  
-- **Country Selection**: Access top headlines from 50+ countries.  
 - **Clean UI/UX**: Modern interface with smooth animations and transitions.  
 - **Offline Support**: Basic functionality available without an internet connection.  
 
