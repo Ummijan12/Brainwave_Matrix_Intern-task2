@@ -1,21 +1,37 @@
-<<<<<<< HEAD
-# Brainwave_Matrix_Intern-task2
-Insight News - Modern News Reader App 📱 A sleek and modern news reader application built with Flutter, featuring real-time news updates powered by NewsAPI.org. Stay informed with the latest headlines, search across thousands of sources, and enjoy a seamless news reading experience. 
-=======
-# news_reader
+# Insight News - Modern News Reader App 📱
 
-A new Flutter project.
+A sleek and modern news reader application built with Flutter, featuring real-time news updates powered by NewsAPI.org. Stay informed with the latest headlines, search across thousands of sources, and enjoy a seamless news reading experience.
 
-## Getting Started
+## About the Developer  
+This project was designed and developed by **Umair Mustafa** during an internship. It reflects a commitment to delivering high-quality applications with clean design and robust functionality.
 
-This project is a starting point for a Flutter application.
+## Key Features  
+- **Real-Time News Updates**: Get the latest headlines from over 150,000 sources.  
+- **Advanced Search**: Find articles by keywords, topics, or sources.  
+- **Category Filtering**: Browse news by categories like Business, Technology, Sports, and more.  
+- **Country Selection**: Access top headlines from 50+ countries.  
+- **Clean UI/UX**: Modern interface with smooth animations and transitions.  
+- **Offline Support**: Basic functionality available without an internet connection.  
 
-A few resources to get you started if this is your first Flutter project:
+## Getting Started  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This project is a starting point for a Flutter application. Below are some useful resources for developers:  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 6482519 (initial commit)
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)  
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)  
+
+For help with Flutter development, check the [online documentation](https://docs.flutter.dev/), which offers tutorials, samples, guidance on mobile development, and a full API reference.
+
+## Tech Stack  
+- **Flutter**  
+- **Dart**  
+- **GetX**  
+- **NewsAPI.org Integration**  
+- **HTTP Package**  
+- **Cache Management**
+
+## Author  
+**Umair Mustafa**  
+Flutter Developer | Enthusiast in creating sleek and user-friendly applications.  
+
+Feel free to connect and share your feedback! 🚀
